@@ -1,0 +1,11 @@
+Model Information:
+* title:	CNC Z Axis
+* source:	https://sketchfab.com/3d-models/cnc-z-axis-cfda1dd4134e47298c71d95e0f661871
+* author:	Zain (https://sketchfab.com/ask2zain)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CNC Z Axis" (https://sketchfab.com/3d-models/cnc-z-axis-cfda1dd4134e47298c71d95e0f661871) by Zain (https://sketchfab.com/ask2zain) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
